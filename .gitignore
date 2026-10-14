@@ -1,0 +1,13 @@
+# Local reverse-engineering material, tools, captures, and evidence.
+/research/
+
+# Generated build and release output.
+/build*/
+/dist/
+/out/
+
+# CMake/IDE user state.
+CMakeUserPresets.json
+.vs/
+
+
